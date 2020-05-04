@@ -1,2 +1,2 @@
 # 2kenize
-Upcoming ACL 2020 paper
+Code will be added soon. The first author is currently stressed about his day job and his EMNLP submission.
